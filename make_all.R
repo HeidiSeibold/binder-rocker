@@ -1,4 +1,5 @@
 library("knitr")
+setwd("submission")
 
 ## create paper
 knit2pdf("paper.Rnw")
