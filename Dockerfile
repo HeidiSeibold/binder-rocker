@@ -1,7 +1,7 @@
 FROM rocker/binder:3.5.0
 
 # Install package for latex
-RUN tlmgr install thumbpdf
+#RUN tlmgr install thumbpdf
 
 # Copy your repository contents to the image
 COPY --chown=rstudio:rstudio . ${HOME}

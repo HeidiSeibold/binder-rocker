@@ -2,4 +2,8 @@ submission/Code/code.R
 submission/Figures
 submission/paper.tex
 submission/paper.pdf
+*-concordance.tex
+*.bbl
+*.synctex.gz
 *.log
+

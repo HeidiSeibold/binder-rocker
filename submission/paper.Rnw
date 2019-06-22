@@ -3,7 +3,8 @@
 %% -- LaTeX packages and custom commands ---------------------------------------
 
 %% recommended packages
-\usepackage{thumbpdf,lmodern}
+% \usepackage{thumbpdf,lmodern} # thumbpdf give me installation problems
+\usepackage{lmodern}
 
 %% another package (only for this demo article)
 \usepackage{framed}
